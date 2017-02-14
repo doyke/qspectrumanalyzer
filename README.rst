@@ -1,3 +1,8 @@
+Important note!
+===============
+
+**If you're here for hackrf_sweep support, it has now been merged upstream so go there instead :) https://github.com/xmikos/qspectrumanalyzer**
+
 QSpectrumAnalyzer
 =================
 
